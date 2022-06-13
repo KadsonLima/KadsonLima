@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, meu nome é Kadson Lima. 👋
+
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS e Styled Components.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Vercel, Git e GitHub.</strong>
+</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kadsonlima)](https://github.com/kadsonlima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadsonlima/)](https://www.linkedin.com/in/kadsonlima/)

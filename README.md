@@ -12,11 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadsonlima/)](https://www.linkedin.com/in/kadsonlima/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCzYepeJXM-5J4QGVE_MISnA)](https://www.youtube.com/channel/UCzYepeJXM-5J4QGVE_MISnA)
 
-
-<div>
-<a href="https://github.com/KadsonLima">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KadsonLima&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
 <!--
 **KadsonLima/KadsonLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

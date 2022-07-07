@@ -1,7 +1,7 @@
 ### Olá, meu nome é Kadson Lima. 👋
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS e Styled Components.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS e NodeJS</strong>
 </p>
 
 <p align="left">
